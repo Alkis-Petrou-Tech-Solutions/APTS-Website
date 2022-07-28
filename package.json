@@ -1,6 +1,6 @@
 {
   "name": "react-package",
-  "homepage": "https://aptechsolutions.uk",
+  "homepage": "https://aptechsolutions.uk/dist",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
